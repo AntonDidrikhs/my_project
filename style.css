@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+columns{
+    display: flex;
+}
+header-band{
+    height: 5px;
+    background-color: rgb(48, 43, 65);
+}
